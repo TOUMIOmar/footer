@@ -1,0 +1,49 @@
+.disp-footer {
+    display: flex;
+    background-image: url(https://bellinigammarth.com/wp-content/uploads/2021/02/footer2-scaled.jpg?fbclid=IwAR35UvH5Bgf9tKYXELEjE96-_lqIJQ563lRTg1gXlrHdQVgSQnugxnc5QLU);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 45vh;
+  justify-content: space-between;
+  margin-bottom: 0px;
+  
+}
+.menu{
+    width: 20%;
+    padding-left: 50px;
+}
+.liii{
+    list-style: none;
+    padding-left: 0px;
+    color: white;
+}
+.liii li:hover{
+    color: aqua;
+}
+.reseaux {
+    display: block;
+}
+ img{
+    width: 30px;
+    height: 30px;
+}
+
+
+.tog {
+    display: flex;
+}
+.copy{
+    margin-top: 0px;
+    padding-top: 0px ;
+    color: wheat;
+background-color: black ;
+
+}
+.disp-footer P{
+    color: white;
+}
+.disp-footer h1{
+    color: white;
+}

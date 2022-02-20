@@ -1,0 +1,8 @@
+.information{
+    display: flex;
+}
+.sec img{
+    width: 500px;
+    border-radius: 30px;
+    margin: 10px;
+}
